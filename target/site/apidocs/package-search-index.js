@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"textui"},{"l":"textui.element"},{"l":"textui.exception"},{"l":"textui.helper"}];updateSearchResults();

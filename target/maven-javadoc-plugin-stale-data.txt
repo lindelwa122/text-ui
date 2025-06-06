@@ -1,0 +1,51 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/wtc/workspaces/semester2/demo-text-ui/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BoxModel-TextUI 1.1 API'
+-use
+-version
+-windowtitle
+'BoxModel-TextUI 1.1 API'
+textui.exception
+textui.element
+textui
+textui.helper
+/home/wtc/workspaces/semester2/demo-text-ui/demo/src/main/java = 1745912518492
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/module-search-index.js = 1749186644812
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/help-doc.html = 1749186644829
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/index.html = 1749186644801
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/allclasses-index.html = 1749186644810
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/overview-tree.html = 1749186644799
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/search-page.js = 1749186644832
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/element-list = 1749186644749
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/stylesheet.css = 1749186644830
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/javadoc.sh = 1749186590243
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/package-search-index.js = 1749186644812
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/copy.svg = 1749186644831
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/search.html = 1749186644826
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/overview-summary.html = 1749186644827
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/index-all.html = 1749186644824
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/link.svg = 1749186644831
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/script.js = 1749186644831
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/tag-search-index.js = 1749186644812
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/allpackages-index.html = 1749186644811
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/search.js = 1749186644832
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/serialized-form.html = 1749186644769
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/member-search-index.js = 1749186644812
+/home/wtc/workspaces/semester2/demo-text-ui/demo/target/site/apidocs/type-search-index.js = 1749186644812
